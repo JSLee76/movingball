@@ -3,7 +3,7 @@ package movingball;
 import java.awt.*;
 import javax.swing.*;
 
-public class MovingBall extends JPanel{ // dev 시작
+public class MovingBall extends JPanel{ // dev 브랜치 시작
 
 	
 	int width;
